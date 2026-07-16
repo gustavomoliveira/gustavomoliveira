@@ -1,31 +1,28 @@
-## 🌐 Gustavo de Oliveira
-- Software engineer student at Infnet.
-- Longlife learner.
-- World traveler.
-- Dog lover.
+# Gustavo de Oliveira
 
-### Connect with me:
-[![Static Badge](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=%231f4ced&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgustavomdeoliveira%2F)](https://www.linkedin.com/in/gustavomdeoliveira/)
-[![Static Badge](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=%231f4ced&logoSize=auto&link=http%3A%2F%2Finstagram.com%2Fgusmnds%2F)](https://www.instagram.com/gusmnds/)
-[![Static Badge](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=%231F4CED&)](mailto:gusmendesoliveira@gmail.com)
+Backend-focused software engineer in training — Java, Spring Boot, and the
+databases underneath.
 
-### GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomoliveira&theme=github_dark&show_icons=true)
+---
 
+### Currently building
+- Practicing Domain-Driven Design across microservices and monolithic architectures
+- Exploring polyglot persistence — PostgreSQL, MongoDB, and Redis in the same system
+- Building React front ends with a focus on component architecture and REST API consumption
 
+### Stack
 
+| Backend | Frontend | Data | Tools |
+|---|---|---|---|
+| Java, Spring Boot | React, TypeScript | PostgreSQL, MongoDB, Redis |
 
-<!--
-**gustavomoliveira/gustavomoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Featured work
 
-Here are some ideas to get you started:
+- **[streaming-microservices-ddd](https://github.com/gustavomoliveira/streaming-microservices-ddd)** — 5-service music streaming backend built around DDD: Context Mapping, Anti-Corruption Layer, Chain of Responsibility
+- **[academia-spring-boot](https://github.com/gustavomoliveira/academia-spring-boot)** — polyglot-persistence API for a gym management system, spanning three different databases
+- **[hospital-api-spring](https://github.com/gustavomoliveira/hospital-api-spring)** — Spring Boot API with unit and integration test coverage, Docker-first setup
+- **[ecommerce-dummy-crud](https://github.com/gustavomoliveira/ecommerce-dummy-crud)** — React CRUD panel consuming a public REST API, with form validation and toast feedback
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/gustavomdeoliveira/) · [gusmendesoliveira@gmail.com](mailto:gusmendesoliveira@gmail.com)
